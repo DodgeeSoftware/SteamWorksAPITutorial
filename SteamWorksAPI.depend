@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1534920438 source:c:\myprograms\steamworksapi\main.cpp
+	<cstdlib>
+	<iostream>
+	<steam/steam_api.h>
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\steam_api.h
+	"isteamclient.h"
+	"isteamuser.h"
+	"isteamfriends.h"
+	"isteamutils.h"
+	"isteammatchmaking.h"
+	"isteamuserstats.h"
+	"isteamapps.h"
+	"isteamnetworking.h"
+	"isteamremotestorage.h"
+	"isteamscreenshots.h"
+	"isteammusic.h"
+	"isteammusicremote.h"
+	"isteamhttp.h"
+	"isteamcontroller.h"
+	"isteamugc.h"
+	"isteamapplist.h"
+	"isteamhtmlsurface.h"
+	"isteaminventory.h"
+	"isteamvideo.h"
+	"isteamparentalsettings.h"
+	"steam_api_internal.h"
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamclient.h
+	"steamtypes.h"
+	"steamclientpublic.h"
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\steamtypes.h
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\steamclientpublic.h
+	"steamtypes.h"
+	"steamuniverse.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\steamuniverse.h
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamuser.h
+	"isteamclient.h"
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamfriends.h
+	"isteamclient.h"
+	"steamclientpublic.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamutils.h
+	"isteamclient.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteammatchmaking.h
+	"steamtypes.h"
+	"steamclientpublic.h"
+	"matchmakingtypes.h"
+	"isteamclient.h"
+	"isteamfriends.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\matchmakingtypes.h
+	<stdio.h>
+	<string.h>
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamuserstats.h
+	"isteamclient.h"
+	"isteamremotestorage.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamremotestorage.h
+	"isteamclient.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamapps.h
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamnetworking.h
+	"steamtypes.h"
+	"steamclientpublic.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamscreenshots.h
+	"isteamclient.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteammusic.h
+	"isteamclient.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteammusicremote.h
+	"isteamclient.h"
+	"isteammusic.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamhttp.h
+	"isteamclient.h"
+	"steamhttpenums.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\steamhttpenums.h
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamcontroller.h
+	"isteamclient.h"
+
+1499679718 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamugc.h
+	"isteamclient.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamapplist.h
+	"isteamclient.h"
+	"steamtypes.h"
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamhtmlsurface.h
+	"isteamclient.h"
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteaminventory.h
+	"isteamclient.h"
+
+1499679206 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamvideo.h
+	"isteamclient.h"
+
+1499679592 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\isteamparentalsettings.h
+
+1513599162 c:\mingw-4.8.1\libraries\steamsdk1.42\public\steam\steam_api_internal.h
+
+1585994926 source:d:\myprograms\steamworksapi\main.cpp
+	<cstdlib>
+	<iostream>
+	<steam/steam_api.h>
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\steam_api.h
+	"isteamclient.h"
+	"isteamuser.h"
+	"isteamfriends.h"
+	"isteamutils.h"
+	"isteammatchmaking.h"
+	"isteamuserstats.h"
+	"isteamapps.h"
+	"isteamnetworking.h"
+	"isteamremotestorage.h"
+	"isteamscreenshots.h"
+	"isteammusic.h"
+	"isteammusicremote.h"
+	"isteamhttp.h"
+	"isteamcontroller.h"
+	"isteamugc.h"
+	"isteamapplist.h"
+	"isteamhtmlsurface.h"
+	"isteaminventory.h"
+	"isteamvideo.h"
+	"isteamparentalsettings.h"
+	"steam_api_internal.h"
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamclient.h
+	"steamtypes.h"
+	"steamclientpublic.h"
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\steamtypes.h
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\steamclientpublic.h
+	"steamtypes.h"
+	"steamuniverse.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\steamuniverse.h
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamuser.h
+	"isteamclient.h"
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamfriends.h
+	"isteamclient.h"
+	"steamclientpublic.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamutils.h
+	"isteamclient.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteammatchmaking.h
+	"steamtypes.h"
+	"steamclientpublic.h"
+	"matchmakingtypes.h"
+	"isteamclient.h"
+	"isteamfriends.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\matchmakingtypes.h
+	<stdio.h>
+	<string.h>
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamuserstats.h
+	"isteamclient.h"
+	"isteamremotestorage.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamremotestorage.h
+	"isteamclient.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamapps.h
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamnetworking.h
+	"steamtypes.h"
+	"steamclientpublic.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamscreenshots.h
+	"isteamclient.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteammusic.h
+	"isteamclient.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteammusicremote.h
+	"isteamclient.h"
+	"isteammusic.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamhttp.h
+	"isteamclient.h"
+	"steamhttpenums.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\steamhttpenums.h
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamcontroller.h
+	"isteamclient.h"
+
+1499683318 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamugc.h
+	"isteamclient.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamapplist.h
+	"isteamclient.h"
+	"steamtypes.h"
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamhtmlsurface.h
+	"isteamclient.h"
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteaminventory.h
+	"isteamclient.h"
+
+1499682806 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamvideo.h
+	"isteamclient.h"
+
+1499683192 d:\mingw-w64\libraries\steamsdk1.42\public\steam\isteamparentalsettings.h
+
+1513602762 d:\mingw-w64\libraries\steamsdk1.42\public\steam\steam_api_internal.h
+
